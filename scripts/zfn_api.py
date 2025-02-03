@@ -42,8 +42,8 @@ class Client:
         Client.raspisanie = self.raspisanie
         Client.ignore_type = self.ignore_type
 
-        self.key_url = urljoin(self.base_url, "xtgl/login_getPublicKey.html")
-        self.login_url = urljoin(self.base_url, "xtgl/login_slogin.html")
+        self.key_url = urljoin(self.base_url, "jwglxt/login_getPublicKey.html")
+        self.login_url = urljoin(self.base_url, "jwglxt/login_slogin.html")
         self.kaptcha_url = urljoin(self.base_url, "kaptcha")
         self.headers = requests.utils.default_headers()
         self.headers["Referer"] = self.login_url
