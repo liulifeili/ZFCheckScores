@@ -54,12 +54,12 @@
 
 > 程序会自动填充 `URL` 尾部的 `xtgl/login_slogin.html`，因此你无需重复添加
 
-| Name     | 例子                        | 说明                                                                      |
-| -------- | --------------------------- | ------------------------------------------------------------------------- |
-| URL      | https://www.nianbroken.top/ | 教务系统地址                                                              |
-| USERNAME | 2971802058                  | 教务系统用户名                                                            |
-| PASSWORD | Y3xhaCkb5PZ4                | 教务系统密码                                                              |
-| TOKEN    | J65KWMBfyDh3YPLpcvm8        | [Showdoc 的 token](https://push.showdoc.com.cn/#/push "Showdoc 的 token") |
+| Name     | 例子                   | 说明                                                                      |
+| -------- | ---------------------- | ------------------------------------------------------------------------- |
+| URL      | https://www.klaio.top/ | 教务系统地址                                                              |
+| USERNAME | 2971802058             | 教务系统用户名                                                            |
+| PASSWORD | Y3xhaCkb5PZ4           | 教务系统密码                                                              |
+| TOKEN    | J65KWMBfyDh3YPLpcvm8   | [Showdoc 的 token](https://push.showdoc.com.cn/#/push "Showdoc 的 token") |
 
 ### 4. 开启 Actions
 
@@ -97,7 +97,10 @@ _若是第一次运行程序，上述步骤会执行两遍_
 
 ## 最便宜的 VPN
 
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/ "https://nianbroken.github.io/Great-Firewall/")
+[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/)
+
+## 性价比最高的 ChatGPT 镜像站
+[Aizex 合租面板](https://aizex.klaio.top/)
 
 ## 其他
 
